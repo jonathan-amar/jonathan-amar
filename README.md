@@ -1,6 +1,7 @@
 Hi, I’m @jonathan-amar!
 
 I am an aspiring software developer/engineer who is currently in the market for a first opportunity
+My current goal is to become more familiar with C++.
 
 Within tech, I enjoy
   - Java
