@@ -1,6 +1,7 @@
-Hi, I’m @jonathan-amar!
+Hi, I’m @jonathan-amar
 
 I am an aspiring software developer/engineer who is currently in the market for a first opportunity
+
 My current goal is to become more familiar with C++.
 
 Within tech, I enjoy
@@ -16,6 +17,6 @@ Outside of tech, I enjoy
   - playing video games
   - reading sci-fi novels
 
-I have a natural affinity for interpersonal communication, and posess a natural curiosity for engineering solutions!
+I have a natural affinity for interpersonal communication, and posess a natural curiosity for engineering solutions
 
-My contact information is amar.jonathan00@gmail.com , (336) 775-7311. I hope to hear from you soon!
+My contact information is amar.jonathan00@gmail.com , (336) 775-7311. I hope to hear from you soon
