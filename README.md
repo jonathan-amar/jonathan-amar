@@ -1,8 +1,8 @@
 Hi, I’m @jonathan-amar
 
-I am an aspiring software developer/engineer who is currently in the market for a first opportunity
+I am an aspiring software developer/engineer who is currently in the software job market
 
-My current goal is to become more familiar with C++.
+My current goal is better familiarizing myself with C++
 
 Within tech, I enjoy
   - Scripting
