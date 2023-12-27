@@ -5,10 +5,12 @@ I am an aspiring software developer/engineer who is currently in the market for 
 My current goal is to become more familiar with C++.
 
 Within tech, I enjoy
+  - Scripting
+  - Cybersecurity
   - Java
   - Python
   - Engineering software solutions
-  - Cybersecurity
+  
 
 Outside of tech, I enjoy
   - teaching music and dance
